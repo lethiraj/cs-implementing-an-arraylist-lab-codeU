@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="dhcp205-072-051.wireless.buffalo.edu" name="com.flatironschool.javacs.MyArrayListTest" skipped="0" tests="19" time="0.479" timestamp="2016-04-18T06:23:39">
+<testsuite errors="0" failures="0" hostname="dhcp020-223-165.wireless.buffalo.edu" name="com.flatironschool.javacs.MyArrayListTest" skipped="0" tests="19" time="0.081" timestamp="2016-04-18T17:34:15">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
@@ -78,13 +78,14 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
     <property name="java.class.path" value="/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/bin:/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/lib/junit-4.12.jar:/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/lib/hamcrest-core-1.3.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-launcher.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit.jar:/usr/local/Cellar/ant/1.9.6/libexec/lib/ant-junit4.jar" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.MyArrayListTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junit/TEST-com.flatironschool.javacs.MyArrayListTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junitvmwatcher7452725897584447887.properties propsfile=/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junit5519753057400473176.properties" />
-    <property name="env.TERM_SESSION_ID" value="E0B9D1BD-1FE6-4359-9618-45AC2A58709B" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.flatironschool.javacs.MyArrayListTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junit/TEST-com.flatironschool.javacs.MyArrayListTest.xml formatter=org.apache.tools.ant.taskdefs.optional.junit.PlainJUnitResultFormatter crashfile=/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junitvmwatcher721018244167896325.properties propsfile=/Users/lethiraj/Documents/google-codeU git repo/cs-implementing-an-arraylist-lab-codeU/javacs-lab02/junit618590412989480541.properties" />
+    <property name="env.TERM_SESSION_ID" value="088BAA69-3B96-4945-BB1F-008F21B965B8" />
     <property name="ant.file.type.JavaCS" value="file" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="ant.file.type" value="file" />
     <property name="java.vm.specification.version" value="1.8" />
     <property name="sun.os.patch.level" value="unknown" />
+    <property name="env.JAVA_MAIN_CLASS_67082" value="org.apache.tools.ant.launch.Launcher" />
     <property name="sun.cpu.endian" value="little" />
     <property name="env.HOME" value="/Users/lethiraj" />
     <property name="debuglevel" value="source,lines,vars" />
@@ -101,7 +102,6 @@
     <property name="ant.java.version" value="1.8" />
     <property name="ant.core.lib" value="/usr/local/Cellar/ant/1.9.6/libexec/lib/ant.jar" />
     <property name="source" value="1.6" />
-    <property name="env.JAVA_MAIN_CLASS_66301" value="org.apache.tools.ant.launch.Launcher" />
     <property name="file.encoding" value="UTF-8" />
     <property name="java.specification.version" value="1.8" />
     <property name="ant.project.invoked-targets" value="test" />
@@ -111,17 +111,17 @@
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testGet" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testSet" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testAddAllCollectionOfQextendsT" time="0.0" />
-  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testClear" time="0.001" />
+  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testClear" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testAddT" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testSize" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testLastIndexOf" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testMyArrayList" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testContainsAll" time="0.0" />
-  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testRemoveObject" time="0.0" />
+  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testRemoveObject" time="0.001" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testContains" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testIndexOf" time="0.0" />
-  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testIsEmpty" time="0.0" />
-  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testIterator" time="0.0" />
+  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testIsEmpty" time="0.001" />
+  <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testIterator" time="0.001" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testRemoveAll" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testRemoveInt" time="0.0" />
   <testcase classname="com.flatironschool.javacs.MyArrayListTest" name="testSubList" time="0.0" />

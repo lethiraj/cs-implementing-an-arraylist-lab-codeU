@@ -118,19 +118,7 @@ public class MyArrayList<E> implements List<E> {
 	@Override
 	public int indexOf(Object target) {
 		// TODO: fill in this method
-//		int index=-1;
-//		if(target.equals(null)){
-//			throw new NullPointerException();
-//		}
-//		for(int i=0;i<size;i=i+1){
-//			if(array[i].equals(target)){
-//				index=i;
-//			}
-//			else{
-//				return -1;
-//			}
-//		}
-//		return index;
+
 		if (target == null) {
 			for (int i = 0; i < size; i++)
 				if (array[i]==null)
